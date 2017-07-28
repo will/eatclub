@@ -1,0 +1,73 @@
+logs into eatclub and lists macros for upcoming meals
+stores creds in mac keychain
+
+example
+
+➤./eatclub
+2017-07-31                         	 cal	pro/crb/fat	pr/cb/ft pct
+Spinach and Strawberry Salad       	 360	  6/ 24/ 26	 6/26/65
+Campeche Chicken with Tortilla Soup	 445	 20/ 57/ 16	17/51/32
+French Mustard Chicken*            	 502	 58/ 23/ 18	46/18/32
+Tex Mex Shrimp Salad               	 544	 23/ 45/ 30	16/33/49
+Paleo Grilled Chicken Bowl         	 617	 31/ 63/ 32	20/40/46
+Grass Monkey Bar Box               	 684	 16/ 78/ 28	 9/45/36
+Very Vegan + Healthy Snacks        	 714	 26/ 74/ 36	14/41/45
+Leafy Levant Salad                 	 734	 23/ 66/ 45	12/35/55
+Piedmont Bowl with Tofu            	 807	 35/ 87/ 41	17/43/45
+Turkey Cheddar Club + Goodies      	 817	 30/ 83/ 39	14/40/42
+Tofu Classic w/ Wild Rice          	 834	 35/110/ 35	16/52/37
+Chicken Tostada Salad              	 856	 51/ 56/ 50	23/26/52
+Veggie Tostada Salad               	 875	 18/ 44/ 72	 8/20/74
+Primavera Mac & Cheese             	 879	 37/ 65/ 53	16/29/54
+Green Chili Roasted Pork           	 956	 87/ 81/ 32	36/33/30
+Cranberry Chicken + Healthy Snacks 	1011	 68/ 88/ 42	26/34/37
+Butter Chicken                     	1035	 66/104/ 39	25/40/33
+Chicken Moilee                     	1044	 36/124/ 46	13/47/39
+Chicken Caesar Salad               	1097	 93/ 77/ 55	33/28/45
+Andouille and Mac                  	1156	 55/ 79/ 69	19/27/53
+Paneer Tikka Masala                	1227	 50/111/ 64	16/36/46
+
+
+2017-08-01                         	 cal	pro/crb/fat	pr/cb/ft pct
+Campeche Chicken with Tortilla Soup	 445	 20/ 57/ 16	17/51/32
+Shiitake Kale Salad                	 517	 15/ 78/ 20	11/60/34
+BLT                                	 610	 22/ 37/ 44	14/24/64
+Paleo Grilled Chicken Bowl         	 617	 31/ 63/ 32	20/40/46
+The Protein Box                    	 643	 25/ 55/ 39	15/34/54
+Grass Monkey Bar Box               	 684	 16/ 78/ 28	 9/45/36
+Very Vegan + Healthy Snacks        	 714	 26/ 74/ 36	14/41/45
+Turkey Cheddar Club + Goodies      	 817	 30/ 83/ 39	14/40/42
+Tofu Classic w/ Wild Rice          	 834	 35/110/ 35	16/52/37
+Chicken Tostada Salad              	 856	 51/ 56/ 50	23/26/52
+Pumpkin Curry with Tofu            	 868	 24/ 98/ 45	11/45/46
+Veggie Tostada Salad               	 875	 18/ 44/ 72	 8/20/74
+Dal Makhani                        	 970	 25/132/ 39	10/54/36
+Italian Chopped Salad              	 993	 39/ 39/ 74	15/15/67
+Campeche Chicken Chop              	1031	 26/ 78/ 75	10/30/65
+Butter Chicken                     	1035	 66/104/ 39	25/40/33
+Mom's Egg Salad + Goodies          	1076	 40/105/ 53	14/39/44
+Chicken Caesar Salad               	1097	 93/ 77/ 55	33/28/45
+Paneer Tikka Masala                	1227	 50/111/ 64	16/36/46
+Beef Chili and Cornbread           	1383	 55/128/ 73	15/37/47
+
+
+2017-08-03                         	 cal	pro/crb/fat	pr/cb/ft pct
+Tea Leaf Salad with Chicken        	 432	 22/ 32/ 26	20/29/54
+Campeche Chicken with Tortilla Soup	 445	 20/ 57/ 16	17/51/32
+Caprese Salad with Mixed Greens    	 520	 22/ 26/ 34	16/20/58
+Minted Jalapeno Chicken with Vegeta	 615	 39/ 78/ 10	25/50/14
+Paleo Grilled Chicken Bowl         	 617	 31/ 63/ 32	20/40/46
+Grass Monkey Bar Box               	 684	 16/ 78/ 28	 9/45/36
+Korean Quinoa Bowl                 	 707	 38/ 97/ 20	21/54/25
+Very Vegan + Healthy Snacks        	 714	 26/ 74/ 36	14/41/45
+Spaghetti and Meatballs            	 733	 36/ 45/ 46	19/24/56
+Salmon with Lentil Salad           	 798	 47/ 57/ 44	23/28/49
+Turkey Cheddar Club + Goodies      	 817	 30/ 83/ 39	14/40/42
+Tofu Classic w/ Wild Rice          	 834	 35/110/ 35	16/52/37
+Hawaiian Teriyaki Portobello       	 837	 15/108/ 43	 7/51/46
+Chicken Tostada Salad              	 856	 51/ 56/ 50	23/26/52
+This Piggy Went to Market + Goodies	 898	 41/ 79/ 44	18/35/44
+Butter Chicken                     	1035	 66/104/ 39	25/40/33
+Chicken Caesar Salad               	1097	 93/ 77/ 55	33/28/45
+Tex Mex Chicken Salad              	1120	 64/104/ 58	22/37/46
+Paneer Tikka Masala                	1227	 50/111/ 64	16/36/46
