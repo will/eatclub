@@ -32,7 +32,7 @@ end
 def agg(name, ingredients)
   ings = Array(Food::Ingreediant).new
   ingredients.each do |i|
-    next if i.name.match(/sides inclu/i)
+    next if i.name.match(/sides inclu/i) unless ingredients.size == 1
     next if i.name.match(/w\/ dressing/i)
 
     h = Hash(String, Int32).new
@@ -41,7 +41,6 @@ def agg(name, ingredients)
     end
     ings << h
   end
-
   Food.new(name: name, ingredients: ings)
 end
 
